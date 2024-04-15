@@ -1,3 +1,5 @@
+package desafio.alura.conta;
+
 import java.util.Scanner;
 
 public class AtvConta {

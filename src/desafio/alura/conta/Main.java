@@ -1,3 +1,5 @@
+package desafio.alura.conta;
+
 import java.util.Random;
 import java.util.Scanner;
 
